@@ -1,0 +1,2 @@
+- java/compiler : jdk 1.8
+- ADD : mathlib-ejb\src\main\java
