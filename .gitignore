@@ -1,0 +1,14 @@
+/Ebank/Ebank-ejb/build/
+/Ebank-lib/build/
+/Ebank/Ebank-ejb/dist/
+/Ebank-lib/dist/
+/Ebank/Ebank-war/build/
+/Ebank/build/
+/Ebank/Ebank-war/dist/
+/Ebank-client/nbproject/private/
+/Ebank-client/build/
+/Ebank-client/dist/
+/Atm-deposit/nbproject/private/
+/Atm-deposit/Atm-deposit-war/nbproject/private/
+/Atm-deposit/Atm-deposit-ejb/nbproject/private/
+/deposit-lib/nbproject/private/
